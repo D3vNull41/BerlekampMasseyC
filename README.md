@@ -69,7 +69,7 @@ int main() {
 	// Execute the Berlekamp-Massey algorithm
 	if (berlekamp_massey(sequence, length, &result) == 0) {
 
-        printf("The length of the shortest LFSR is: %ld\n", result.degree);
+        	printf("The length of the shortest LFSR is: %ld\n", result.degree);
 		// Free allocated resources
 		bm_result_free(&result);
 
