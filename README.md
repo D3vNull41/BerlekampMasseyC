@@ -1,4 +1,4 @@
-# BerlekampMasseyC (Berlekamp-Massey Algorithm Library)
+# BerlekampMasseyC
 
 ## Overview
 
